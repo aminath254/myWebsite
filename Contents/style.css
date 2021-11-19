@@ -1,0 +1,28 @@
+
+#img {
+    background-image: url(..images/main-art.jpg)
+   
+}
+body { 
+    color: cornsilk;
+     background-color: rgb(7, 31, 9);
+     background-image: url(..images/main-art.jpg)
+     
+}
+
+p{
+    color: cornsilk;
+}
+
+div {
+    background-color: black;
+    
+}
+
+
+h1{
+    color: rgb(30, 163, 70);
+    font-family: Brush Script MT,cursive; 
+    font-size: 100px;
+} 
+      
